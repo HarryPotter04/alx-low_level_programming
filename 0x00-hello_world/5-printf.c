@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- * print to output
- * return : always 0 (success)
+ * main - To print out "with proper grammar, but the outcome is a piece of art,"
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

@@ -2,12 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - main block
- * Description: Get a random number and print the number
- * and if it is positive, negative, or zero
+ * main - main
+ * Description: This program will assign a random number to the variable n each time it is executed.
  * Return: 0
  */
-int main()
+int main(void)
 {
 	int n;
 

@@ -1,3 +1,4 @@
+#include <stdlib.h>
 #include <stdio.h>
 
 /**
@@ -5,11 +6,12 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-	char z = 'x';
+	char z = 'a';
 
-	while (z <= 'y')
+	while (z <= 'z')
 	{
 		putchar(z);
 		z++;

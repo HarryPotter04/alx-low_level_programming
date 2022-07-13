@@ -2,8 +2,8 @@
 
 /**
  * add - returns sum of parameters
- * @a: int type
- * @b: int typr
+ * @x: int type
+ * @y: int typr
  * Return: 0
  */
 

@@ -1,0 +1,1 @@
+this is an advance pointer , array, and strings task.
